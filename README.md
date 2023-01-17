@@ -3,7 +3,7 @@
 
 ### About me 🧑‍💻
 ---
-- 🔭 I'm Manuel, working as Software Developer at Diverza.
+- 🔭 I'm Manuel, I'm working as Software Developer at Diverza.
 - 🎓 I'm graduated in 2021 from Universidad Autonoma de Nuevo Leon with GPA of 3.3.
 - 🌱 I'm learning distributed computing.
 - ⚡ Interests: listen music, read researches, read books, play videogames.
@@ -36,3 +36,5 @@ In summary, my work experience has been very enriching and has allowed me to acq
 ### Contact
 ---
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-antonio-garcia-garcia-690866171/)
+
+[![Email](https://img.shields.io/badge/email-%23000000.svg?style=for-the-badge&logo=email&logoColor=white)](mailto:manuel-garccia@hotmail.com)
