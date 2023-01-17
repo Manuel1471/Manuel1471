@@ -8,6 +8,10 @@
 - 🌱 I'm learning distributed computing.
 - ⚡ Interests: listen music, read researches, read books, play videogames.
 
+### Education
+---
+- **Bachelor's degree in Computer Science** - I graduated from Universidad Autonoma de Nuevo Leon with a GPA of 3.3. I entered in 2017 and graduated in 2021.
+
 ### Tech Stack
 ---
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 	
