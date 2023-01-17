@@ -3,10 +3,15 @@
 
 ### About me 🧑‍💻
 ---
-- 🔭 I'm Manuel, I'm working as Software Developer at Diverza.
-- 🎓 I'm graduated in 2021 from Universidad Autonoma de Nuevo Leon with GPA of 3.3.
-- 🌱 I'm learning distributed computing.
-- ⚡ Interests: listen music, read researches, read books, play videogames.
+My name is Manuel Garcia and I currently work as a Software Developer at Diverza. I have always been interested in the field of computer science, and I am constantly learning and growing in my field.
+
+One of the areas I am currently exploring is distributed computing. I find the concept of distributing computing tasks across multiple machines to be fascinating and I am eager to learn more about it.
+
+Aside from my professional pursuits, I enjoy listening to music, reading research papers, reading books, and playing video games in my free time. These activities help me relax and recharge after a long day of coding.
+
+I am passionate about programming and computer-related topics, such as distributed and parallel computing. My goal is to become a researcher in the field, and I am always looking for new challenges and opportunities to grow. I also enjoy taking on algorithmic challenges, which help me sharpen my problem-solving skills and think outside the box.
+
+In summary, I am a dedicated and passionate software developer with a strong desire to learn and grow in my field. I am always looking for new challenges and opportunities to expand my skills and knowledge, and I am excited to see where my career in computer science will take me.
 
 ### Education
 ---
