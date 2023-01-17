@@ -3,7 +3,7 @@
 
 ### About me 🧑‍💻
 ---
-My name is Manuel Garcia and I currently work as a Software Developer at Diverza. I have always been interested in the field of computer science, and I am constantly learning and growing in my field.
+My name is Manuel Garcia and I currently work as a Software Developer. I have always been interested in the field of computer science, and I am constantly learning and growing in my field.
 
 One of the areas I am currently exploring is distributed computing. I find the concept of distributing computing tasks across multiple machines to be fascinating and I am eager to learn more about it.
 
