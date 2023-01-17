@@ -1,5 +1,4 @@
-### Hi there 👋
----
+# Manuel Garcia - Software Developer
 
 ### About me 🧑‍💻
 ---
@@ -55,3 +54,8 @@ In summary, my work experience has been very enriching and has allowed me to acq
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-antonio-garcia-garcia-690866171/)
 
 [![Email](https://img.shields.io/badge/email-%23000000.svg?style=for-the-badge&logo=email&logoColor=white)](mailto:manuel-garccia@hotmail.com)
+
+
+### Footer
+
+- Last Update: January 2023
