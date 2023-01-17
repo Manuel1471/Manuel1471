@@ -24,6 +24,14 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+### Achievements and Certifications
+---
+- **Microsoft Certified: Azure Fundamentals** - Obtained this certification in Microsoft Azure Fundamentals, which provided me with a solid understanding of basic Azure concepts such as services, security, storage, and networking. [Verify certification](https://www.credly.com/badges/a26e9834-b00d-41bd-bfe0-c0c7af801a9b/public_url)
+
+- **AWS Academy Graduate - AWS Academy Cloud Foundations** - Obtained this certification in AWS Cloud Fundamentals, which provided me with a solid understanding of basic AWS concepts such as services, security, storage, and networking. [Verify certification](https://www.credly.com/badges/23afb0a5-57f0-4179-8010-9e133ad7bc74/public_url)
+
+- **Winner at the Hackathon IA 2021 of fAIr LAC Jalisco** - Won at the Hackathon IA 2021 participating in developing a prototype and putting together a viable project related to high school dropout. Issued by fAIr LAC Jalisco in April 2021
+
 ### Work History
 ---
 
